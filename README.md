@@ -1,2 +1,13 @@
-# OIBSIP_PYTHONPROGRAMMING_TASK2
-This Python program calculates **Body Mass Index (BMI)** using the user’s weight and height. It takes input, computes BMI using the formula *BMI = weight / height²*, and displays the result. Based on the BMI value, it classifies the user as **Underweight, Normal weight, Overweight, or Obese** and prints the corresponding category.
+Features:
+ Takes user input for weight and height
+ Calculates BMI automatically
+ Displays BMI value rounded to 2 decimals
+ Classifies health category (Underweight, Normal, Overweight, Obese)
+ Includes error handling to prevent invalid input
+
+Tools Used:
+ Python programming language
+ Python IDLE (to run the program)
+ Built-in Python functions: input(), print(), float(), round()
+ Conditional statements (if, elif, else)
+ Exception handling (try, except)
